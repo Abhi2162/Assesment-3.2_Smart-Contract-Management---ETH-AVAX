@@ -26,7 +26,7 @@ Then follow these steps:
 1. Open the terminal in VS code and clone the repository using the command 
 `git clone https://github.com/Abhi2162/Assesment-3.2_Smart-Contract-Management---ETH-AVAX.git`
 2.  Navigate to the project directory using the command 
-`SCM-Starter-main`
+`cd Assesment-3.2_Smart-Contract-Management---ETH-AVAX`
 3. Install the required dependencies using the command
 `npm i`
 4. When it gets completed open two additional terminals in your VS code
