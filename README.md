@@ -24,9 +24,9 @@ The dApp interacts with a deployed smart contract on the Ethereum blockchain. Th
 To execute this program into your local machine first you have to ensure that your local machine has the latest node.js and npm configuration and added to path in your machine's environment variable. After that create a new folder and open that folder in VS code.
 Then follow these steps:
 1. Open the terminal in VS code and clone the repository using the command 
-`git clone `
+`git clone https://github.com/Abhi2162/Assesment-3.2_Smart-Contract-Management---ETH-AVAX.git`
 2.  Navigate to the project directory using the command 
-    
+`SCM-Starter-main`
 3. Install the required dependencies using the command
 `npm i`
 4. When it gets completed open two additional terminals in your VS code
